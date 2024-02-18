@@ -1,0 +1,1 @@
+flutter run -d <your-device-id> --dart-define-from-file="config.json"
