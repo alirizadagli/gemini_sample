@@ -33,4 +33,4 @@ While creating this project I made sure to show some things that might be useful
 - Image picker package
 - Mime types
 - Architecture
-- Conditional operations and cascade operators within lists
+- Conditional operations and spread operator within lists
